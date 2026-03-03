@@ -9,7 +9,7 @@ Auto Posting Ke Banyak Group Facebook
   <br>
   <img src="images/3.png" width="70%">
   <br>
-  <em>Tampilan utama aplikasi dengan dark theme</em>
+  <em>Tampilan Sample</em>
 </p>
 
 
