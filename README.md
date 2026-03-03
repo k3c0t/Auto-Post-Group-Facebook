@@ -15,8 +15,9 @@ Auto Posting Ke Banyak Group Facebook
 
 
 **Note**
-- Saya Pake Fanspage Bukan Akun Biasa Untuk Tes Tools ini 
+- Saya Sudah Coba Pake Akun Biasa Dan Fanspage Dan Sukses
 - Harap Jangan Gunakan Akun Utama / Pribadi Gunakan Akun Tuyul Atau Fanspage kecil untuk menghindari checkpoint dan banned dari meta
+- Jika Gagal Atau Error Kemungkinan Group Di Kunci Atau Di Arsipkan Atau Menunggu Persetujuan Admin Dan Kadang Tiap Group Beda Beda Seperti Jual Beli Yang Hanya Bisa Posting Barang
 
 
 **Fitur utama**
