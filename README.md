@@ -14,6 +14,12 @@ Auto Posting Ke Banyak Group Facebook
 
 
 
+
+- TIDAK SEMUA GROUP BISA DI POSTING KADANG ADA YANG STATUS SUKSES / BERHASIL POSTING TAPI GA BERHASIL DI POSTING 
+
+
+
+
 **Note**
 - Saya Tes Bukan Pake Akun Biasa Tapi Pake Fanspage Untuk Menghindari Resiko Akun Kena Begal
 
