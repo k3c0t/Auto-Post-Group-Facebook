@@ -15,7 +15,7 @@ Auto Posting Ke Banyak Group Facebook
 
 
 
-- TIDAK SEMUA GROUP BISA DI POSTING KADANG ADA YANG STATUS SUKSES / BERHASIL POSTING TAPI GA BERHASIL DI POSTING 
+- TIDAK SEMUA GROUP BISA DI POSTING KADANG ADA YANG STATUS SUKSES / BERHASIL POSTING TAPI GA BERHASIL DI POSTING - Jika Gagal Atau Error Kemungkinan Group Di Kunci Atau Di Arsipkan Atau Menunggu Persetujuan Admin Dan Kadang Tiap Group Beda Beda Seperti Jual Beli Yang Hanya Bisa Posting Barang Dan Bisa Jadi UI Atau XPATH Ganti Karena Facebook Sering Gonta Ganti UI XPATH
 
 
 
@@ -29,9 +29,7 @@ Auto Posting Ke Banyak Group Facebook
   
 - Jadi Harap Jangan Gunakan Akun Utama / Pribadi Gunakan Akun Tuyul Atau Fanspage kecil untuk menghindari checkpoint dan banned dari meta
   
-- Jika Gagal Atau Error Kemungkinan Group Di Kunci Atau Di Arsipkan Atau Menunggu Persetujuan Admin Dan Kadang Tiap Group Beda Beda Seperti Jual Beli Yang Hanya Bisa Posting Barang
-  
-- Dan Bisa Jadi UI Atau XPATH Ganti Karena Facebook Sering Gonta Ganti UI
+
 
 
 **Fitur utama**
